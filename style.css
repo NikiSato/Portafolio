@@ -1,0 +1,53 @@
+ul.horizontal{
+    margin:0;
+    padding:0;
+    }
+
+ul.horizontal li{
+    display:block;
+    float:right;
+    padding:0 10px;
+    }
+    .pro {
+        height:400px;
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThx06afyb2Z6F5S9F00PA7dm54amcIlxBxS2GD7qBPwPkjNVgJMj2-qitGcc23QfUkH4A&usqp=CAU");
+        background-size: cover;
+        
+  background-repeat:no-repeat;
+  background-position: center center;
+  
+      }
+.centro{
+    text-align: center; color: rgb(255, 255, 255);
+}
+.centro2{
+    text-align: center; color: rgb(0, 0, 0); font-size: 20px; padding-right: 100px;
+}
+.foto{
+    padding-right: 450px; padding-left: 80px;margin: 25px; float: left; width: 300px;
+}
+.texto { text-align: right;}
+.tex { font-size: 70px;}
+.t { font-size: 20px;}
+footer { background-color: rgb(46, 46, 61);}
+.titulo{
+    text-align: center; color: rgb(255, 255, 255); font-size: 30px;
+}
+.centro3{
+    text-align: center; color: rgb(255, 255, 255); font-size: 17px;
+}
+header { background-color: rgb(168, 168, 168);}
+.menu{
+    text-align: center; color: rgb(0, 0, 0); font-size: 20px;
+}
+
+    a:link {
+        color:rgb(0, 0, 0); text-decoration:none;
+      }
+      a:hover {
+        color:rgb(255, 255, 255);
+        text-decoration:none;
+      }
+      a:active {
+        color:rgb(0, 0, 0);
+      }
